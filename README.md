@@ -1,3 +1,4 @@
+By Uganraj Sugumaran | Diploma in Information Technology Specialisation in Data Informatics | 2026
 # Network intrusion detection on NSL-KDD
 
 A machine learning project that classifies network connections as normal or attack, with a Streamlit dashboard for exploring the results. Built as a diploma-level data analytics portfolio project.
